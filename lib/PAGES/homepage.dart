@@ -60,7 +60,7 @@ class HomePage extends StatelessWidget {
                     ),
                   );
                 },
-                child: const Text('COVD News API'),
+                child: const Text('COVD News API PH'),
               ),
             ),
           ],
